@@ -1,5 +1,4 @@
-# BismillahSysprog
-# System Programming Final Project
+## BismillahSysprog Final Project
 
 ### Group: BismillahSysprog
 - Dimas Aditya Faiz - 1706039686
