@@ -20,9 +20,9 @@ Proyek ini menggunakan dua perangkat yang berbeda, yaitu Ethernet dan Webcam, da
 - [✓] Controlling Additional Devices (other than simulation from Low-Tier Category) using Device Driver
 
 #### High-tier Category​
-- [ ] Create an application (Web or Command Line Interface) to manage Device Driver
+- [✓] Create an application (Web or Command Line Interface) to manage Device Driver
 - [✓] The application in (a) will automatically start from the beginning of turning on the system
-- [✓] Booting under 5 seconds, including executing the application in (b) (Reviewed using ​systemd-analyze​)
+- [] Booting under 5 seconds, including executing the application in (b) (Reviewed using ​systemd-analyze​)
 
 #### Documentation
 
