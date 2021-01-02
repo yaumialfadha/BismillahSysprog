@@ -22,7 +22,7 @@ Proyek ini menggunakan dua perangkat yang berbeda, yaitu Ethernet dan Webcam, da
 #### High-tier Category​
 - [✓] Create an application (Web or Command Line Interface) to manage Device Driver
 - [✓] The application in (a) will automatically start from the beginning of turning on the system
-- [] Booting under 5 seconds, including executing the application in (b) (Reviewed using ​systemd-analyze​)
+- [✓] Booting under 5 seconds, including executing the application in (b) (Reviewed using ​systemd-analyze​)
 
 #### Documentation
 
